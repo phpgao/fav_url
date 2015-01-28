@@ -44,134 +44,142 @@
  - [Odoo][36]
  - [GitHub-Tools][37]
 
+### License
+
+ - [Instruction][38]
+ - [opensource-license-list][39]
+ - [wtfpl][40]
+ - [GPLv2][41]
+ - [Apache License][42]
+
 ### MAC
 
- - [popclip][38]
- - [youkuhtml5playerbookmark][39]
- - [alfredworkflowlist][40]
- - [Homebrew][41]
+ - [popclip][43]
+ - [youkuhtml5playerbookmark][44]
+ - [alfredworkflowlist][45]
+ - [Homebrew][46]
 
 ### search
 
- - [google analytics][42]
- - [hotbot][43]
- - [dogpile][44]
- - [kuaidiapi][45]
- - [wappalyzer][46]
+ - [google analytics][47]
+ - [hotbot][48]
+ - [dogpile][49]
+ - [kuaidiapi][50]
+ - [wappalyzer][51]
 
 ### Language
 
- - [forvo][47]
+ - [forvo][52]
  
 ### UI
 
- - [nprogress][48]
- - [jarallax][49]
- - [superslide2][50]
+ - [nprogress][53]
+ - [jarallax][54]
+ - [superslide2][55]
 
 ### MARKDOWN
 
- - [md-stackedit][51]
- - [md-mdeditor][52]
- - [ReText][53]
- - [maxiang][54]
+ - [md-stackedit][56]
+ - [md-mdeditor][57]
+ - [ReText][58]
+ - [maxiang][59]
 
 ### Chrome
 
- - [Tampermonkey][55]
- - [php-console][56]
+ - [Tampermonkey][60]
+ - [php-console][61]
 
 ### Router
 
- - [PandoraBox][57]
+ - [PandoraBox][62]
 
 ### Cloud Platform
 
- - [docs/cplat/libs][58]
- - [baidu][59]
- - [baidu_m][60]
+ - [docs/cplat/libs][63]
+ - [baidu][64]
+ - [baidu_m][65]
 
 ## Shopping
 
- - [APPLE][61]
- - [domain][62]
- - [cpubenchmark][63]
- - [mydrivers][64]
- - [TAX][65]
- - [MacBook-Pro-ssd][66]
- - [MacRumors Buyer's Guide][67]
+ - [APPLE][66]
+ - [domain][67]
+ - [cpubenchmark][68]
+ - [mydrivers][69]
+ - [TAX][70]
+ - [MacBook-Pro-ssd][71]
+ - [MacRumors Buyer's Guide][72]
 
 ### Free
 
- - [http://www.freedomain.co.nr/][68]
- - [startssl][69]
+ - [http://www.freedomain.co.nr/][73]
+ - [startssl][74]
 
 ## DOCs
 
 ### Manual
 
- - [PY_DOC][70]
- - [PythonWebKit][71]
- - [PHP][72]
- - [THINKPHP][73]
- - [markdown][74]
- - [Scarpy][75]
- - [REGEX][76]
- - [BS][77]
- - [Welcome to Read The Docs][78]
+ - [PY_DOC][75]
+ - [PythonWebKit][76]
+ - [PHP][77]
+ - [THINKPHP][78]
+ - [markdown][79]
+ - [Scarpy][80]
+ - [REGEX][81]
+ - [BS][82]
+ - [Welcome to Read The Docs][83]
 
 ### Guidance
 
- - [HTML & CSS][79]
- - [Bootstrap China][80]
- - [Quick reference to HTTP headers][81]
- - [G.F.W DNS][82]
- - [MAC][83]
- - [How to Handle 1 Billion Requests A Week][84]
+ - [HTML & CSS][84]
+ - [Bootstrap China][85]
+ - [Quick reference to HTTP headers][86]
+ - [G.F.W DNS][87]
+ - [MAC][88]
+ - [How to Handle 1 Billion Requests A Week][89]
 
 ## Framework & CMS
 
 ### php
 
- - [THINKPHP][85]
- - [speedphp][86]
- - [crossphp][87]
- - [Yii][88]
- - [CI][89] 
- - [laravel][90]
- - [symfony][91]
- - [cakephp][92]
- - [drupal][93]
+ - [THINKPHP][90]
+ - [speedphp][91]
+ - [crossphp][92]
+ - [Yii][93]
+ - [CI][94] 
+ - [laravel][95]
+ - [symfony][96]
+ - [cakephp][97]
+ - [drupal][98]
 
 ### mysql
 
- - [medoo][94]
+ - [medoo][99]
 
 ### Nodejs
 
- - [hexo.io][95]
- - [hexo.Themes][96]
+ - [hexo.io][100]
+ - [hexo.Themes][101]
 
 ## API
 
- - [REST APIs][97]
+ - [REST APIs][102]
 
 ## Fun
 
- - [dribbble][98]
- - [maolihui][99]
- - [milnk][100]
- - [slideshare][101]
+ - [dribbble][103]
+ - [maolihui][104]
+ - [milnk][105]
+ - [slideshare][106]
 
 ## Jobs
 
- - [neatstudio][102]
+ - [neatstudio][107]
 
 ## Blog
 
- - [liaoxuefeng][103]
- - [ruanyifeng][104]
- - [W A N I M A L][105]
+ - [liaoxuefeng][108]
+ - [ruanyifeng][109]
+ - [W A N I M A L][110]
 
 
   [1]: https://github.com/phpgao
@@ -211,71 +219,76 @@
   [35]: http://gradle.org/
   [36]: http://www.shine-it.net/
   [37]: http://get.jobdeer.com/6661.get
-  [38]: http://pilotmoon.com/popclip/extensions/
-  [39]: http://zythum.sinaapp.com/youkuhtml5playerbookmark/
-  [40]: http://www.alfredworkflow.com/#V2EX
-  [41]: http://brew.sh/index_zh-cn.html
-  [42]: https://www.google.com/analytics/web/?hl=zh
-  [43]: http://www.hotbot.com/
-  [44]: http://www.dogpile.com/
-  [45]: http://www.kuaidiapi.cn/
-  [46]: https://wappalyzer.com/
-  [47]: http://zh.forvo.com/
-  [48]: https://github.com/rstacruz/nprogress
-  [49]: http://www.jarallax.com/
-  [50]: http://www.superslide2.com/
-  [51]: https://stackedit.io/#
-  [52]: https://www.zybuluo.com/mdeditor
-  [53]: http://sourceforge.net/p/retext/home/ReText/
-  [54]: http://maxiang.info/
-  [55]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
-  [56]: https://chrome.google.com/webstore/detail/php-console/nfhmhhlpfleoednkpnnnkolmclajemef
-  [57]: http://downloads.openwrt.org.cn/PandoraBox/
-  [58]: http://developer.baidu.com/wiki/index.php?title=docs/cplat/libs
-  [59]: http://developer.baidu.com/wiki/index.php
-  [60]: http://mc.baidu.com/
-  [61]: http://store.apple.com/us/browse/home/specialdeals/ipod
-  [62]: http://www.qiuyumi.org
-  [63]: http://cpubenchmark
-  [64]: http://www.mydrivers.com/zhuanti/index.shtml
-  [65]: http://www.customs.gov.cn/publish/portal0/tab399/info363071.htm
-  [66]: http://eshop.macsales.com/shop/SSD/OWC/Air-Retina/Apple-MacBook-Pro-Retina-2012-Drive-Internal-Flash
-  [67]: http://buyersguide.macrumors.com/
-  [68]: freedomain
-  [69]: http://www.startssl.com/
-  [70]: https://docs.python.org/2/index.html
-  [71]: https://wiki.python.org/moin/PythonWebKit
-  [72]: http://www.php.net/manual/zh/funcref.php
-  [73]: http://document.thinkphp.cn/manual_3_2.html
-  [74]: http://daringfireball.net/projects/markdown/
-  [75]: http://scrapy-chs.readthedocs.org/zh_CN/latest/intro/overview.html
-  [76]: http://www.jb51.net/tools/zhengze.html
-  [77]: http://www.crummy.com/software/BeautifulSoup/bs3/documentation.zh.html
-  [78]: https://read-the-docs.readthedocs.org/en/latest/
-  [79]: http://codeguide.bootcss.com/
-  [80]: http://www.bootcss.com/
-  [81]: http://www.cs.tut.fi/~jkorpela/http.html
-  [82]: http://my.oschina.net/idevpn/blog/323010
-  [83]: https://www.zybuluo.com/rulerstorm/note/29343#%E5%85%A5%E9%97%A8%E5%86%99%E4%B8%80%E7%82%B9%E7%99%BE%E5%BA%A6%E8%B5%B7%E6%9D%A5%E4%B8%8D%E6%98%AF%E5%BE%88%E8%BD%BB%E6%9D%BE%E7%9A%84%E4%BA%8B%E6%83%85
-  [84]: http://highscalability.com/blog/2014/8/11/the-easy-way-of-building-a-growing-startup-architecture-usin.html
-  [85]: http://www.thinkphp.cn/
-  [86]: http://www.speedphp.com/
-  [87]: http://www.crossphp.com/
-  [88]: http://www.yiiframework.com
-  [89]: http://www.codeigniter.com/
-  [90]: http://laravel.com/
-  [91]: http://symfony.com/
-  [92]: http://cakephp.org/
-  [93]: https://www.drupal.org/
-  [94]: http://medoo.in/
-  [95]: http://hexo.io/
-  [96]: https://github.com/hexojs/hexo/wiki/Themes
-  [97]: https://dev.twitter.com/rest/public
-  [98]: https://dribbble.com/
-  [99]: http://maolihui.com/
-  [100]: http://milnk.com/discover
-  [101]: http://www.slideshare.net/
-  [102]: http://static.neatstudio.com/jobs/
-  [103]: http://www.liaoxuefeng.com/
-  [104]: http://www.ruanyifeng.com/home.html
-  [105]: http://wanimal.lofter.com/
+  [38]: http://www.phpgao.com/opensrouce_license.html
+  [39]: http://opensource.org/licenses/alphabetical
+  [40]: http://www.wtfpl.net/
+  [41]: http://www.gnu.org/licenses/gpl-2.0.html
+  [42]: http://www.apache.org/licenses/LICENSE-2.0.html
+  [43]: http://pilotmoon.com/popclip/extensions/
+  [44]: http://zythum.sinaapp.com/youkuhtml5playerbookmark/
+  [45]: http://www.alfredworkflow.com/#V2EX
+  [46]: http://brew.sh/index_zh-cn.html
+  [47]: https://www.google.com/analytics/web/?hl=zh
+  [48]: http://www.hotbot.com/
+  [49]: http://www.dogpile.com/
+  [50]: http://www.kuaidiapi.cn/
+  [51]: https://wappalyzer.com/
+  [52]: http://zh.forvo.com/
+  [53]: https://github.com/rstacruz/nprogress
+  [54]: http://www.jarallax.com/
+  [55]: http://www.superslide2.com/
+  [56]: https://stackedit.io/#
+  [57]: https://www.zybuluo.com/mdeditor
+  [58]: http://sourceforge.net/p/retext/home/ReText/
+  [59]: http://maxiang.info/
+  [60]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+  [61]: https://chrome.google.com/webstore/detail/php-console/nfhmhhlpfleoednkpnnnkolmclajemef
+  [62]: http://downloads.openwrt.org.cn/PandoraBox/
+  [63]: http://developer.baidu.com/wiki/index.php?title=docs/cplat/libs
+  [64]: http://developer.baidu.com/wiki/index.php
+  [65]: http://mc.baidu.com/
+  [66]: http://store.apple.com/us/browse/home/specialdeals/ipod
+  [67]: http://www.qiuyumi.org
+  [68]: http://cpubenchmark
+  [69]: http://www.mydrivers.com/zhuanti/index.shtml
+  [70]: http://www.customs.gov.cn/publish/portal0/tab399/info363071.htm
+  [71]: http://eshop.macsales.com/shop/SSD/OWC/Air-Retina/Apple-MacBook-Pro-Retina-2012-Drive-Internal-Flash
+  [72]: http://buyersguide.macrumors.com/
+  [73]: freedomain
+  [74]: http://www.startssl.com/
+  [75]: https://docs.python.org/2/index.html
+  [76]: https://wiki.python.org/moin/PythonWebKit
+  [77]: http://www.php.net/manual/zh/funcref.php
+  [78]: http://document.thinkphp.cn/manual_3_2.html
+  [79]: http://daringfireball.net/projects/markdown/
+  [80]: http://scrapy-chs.readthedocs.org/zh_CN/latest/intro/overview.html
+  [81]: http://www.jb51.net/tools/zhengze.html
+  [82]: http://www.crummy.com/software/BeautifulSoup/bs3/documentation.zh.html
+  [83]: https://read-the-docs.readthedocs.org/en/latest/
+  [84]: http://codeguide.bootcss.com/
+  [85]: http://www.bootcss.com/
+  [86]: http://www.cs.tut.fi/~jkorpela/http.html
+  [87]: http://my.oschina.net/idevpn/blog/323010
+  [88]: https://www.zybuluo.com/rulerstorm/note/29343#%E5%85%A5%E9%97%A8%E5%86%99%E4%B8%80%E7%82%B9%E7%99%BE%E5%BA%A6%E8%B5%B7%E6%9D%A5%E4%B8%8D%E6%98%AF%E5%BE%88%E8%BD%BB%E6%9D%BE%E7%9A%84%E4%BA%8B%E6%83%85
+  [89]: http://highscalability.com/blog/2014/8/11/the-easy-way-of-building-a-growing-startup-architecture-usin.html
+  [90]: http://www.thinkphp.cn/
+  [91]: http://www.speedphp.com/
+  [92]: http://www.crossphp.com/
+  [93]: http://www.yiiframework.com
+  [94]: http://www.codeigniter.com/
+  [95]: http://laravel.com/
+  [96]: http://symfony.com/
+  [97]: http://cakephp.org/
+  [98]: https://www.drupal.org/
+  [99]: http://medoo.in/
+  [100]: http://hexo.io/
+  [101]: https://github.com/hexojs/hexo/wiki/Themes
+  [102]: https://dev.twitter.com/rest/public
+  [103]: https://dribbble.com/
+  [104]: http://maolihui.com/
+  [105]: http://milnk.com/discover
+  [106]: http://www.slideshare.net/
+  [107]: http://static.neatstudio.com/jobs/
+  [108]: http://www.liaoxuefeng.com/
+  [109]: http://www.ruanyifeng.com/home.html
+  [110]: http://wanimal.lofter.com/
