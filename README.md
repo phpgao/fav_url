@@ -99,87 +99,95 @@
  - [baidu][64]
  - [baidu_m][65]
 
+### Qrcode
+
+ - [qrcodejs][66]
+ - [phpqrcode][67]
+
+ 
 ## Shopping
 
- - [APPLE][66]
- - [domain][67]
- - [cpubenchmark][68]
- - [mydrivers][69]
- - [TAX][70]
- - [MacBook-Pro-ssd][71]
- - [MacRumors Buyer's Guide][72]
+ - [APPLE][68]
+ - [domain][69]
+ - [cpubenchmark][70]
+ - [mydrivers][71]
+ - [TAX][72]
+ - [MacBook-Pro-ssd][73]
+ - [MacRumors Buyer's Guide][74]
 
 ### Free
 
- - [http://www.freedomain.co.nr/][73]
- - [startssl][74]
+ - [http://www.freedomain.co.nr/][75]
+ - [startssl][76]
 
 ## DOCs
 
 ### Manual
 
- - [PY_DOC][75]
- - [PythonWebKit][76]
- - [PHP][77]
- - [THINKPHP][78]
- - [markdown][79]
- - [Scarpy][80]
- - [REGEX][81]
- - [BS][82]
- - [Welcome to Read The Docs][83]
+ - [PY_DOC][77]
+ - [PythonWebKit][78]
+ - [PHP][79]
+ - [THINKPHP][80]
+ - [markdown][81]
+ - [Scarpy][82]
+ - [REGEX][83]
+ - [BS][84]
+ - [Welcome to Read The Docs][85]
 
 ### Guidance
 
- - [HTML & CSS][84]
- - [Bootstrap China][85]
- - [Quick reference to HTTP headers][86]
- - [G.F.W DNS][87]
- - [MAC][88]
- - [How to Handle 1 Billion Requests A Week][89]
+ - [HTML & CSS][86]
+ - [Bootstrap China][87]
+ - [Quick reference to HTTP headers][88]
+ - [G.F.W DNS][89]
+ - [MAC][90]
+ - [How to Handle 1 Billion Requests A Week][91]
 
 ## Framework & CMS
 
 ### php
 
- - [THINKPHP][90]
- - [speedphp][91]
- - [crossphp][92]
- - [Yii][93]
- - [CI][94] 
- - [laravel][95]
- - [symfony][96]
- - [cakephp][97]
- - [drupal][98]
+ - [THINKPHP][92]
+ - [speedphp][93]
+ - [crossphp][94]
+ - [Yii][95]
+ - [CI][96] 
+ - [laravel][97]
+ - [symfony][98]
+ - [cakephp][99]
+ - [drupal][100]
 
 ### mysql
 
- - [medoo][99]
+ - [medoo][101]
 
 ### Nodejs
 
- - [hexo.io][100]
- - [hexo.Themes][101]
+ - [hexo.io][102]
+ - [hexo.Themes][103]
 
 ## API
 
- - [REST APIs][102]
+ - [twitter REST APIs][104]
+ - [sina weibo api][105]
+ - [github v3][106]
 
 ## Fun
 
- - [dribbble][103]
- - [maolihui][104]
- - [milnk][105]
- - [slideshare][106]
+ - [dribbble][107]
+ - [maolihui][108]
+ - [milnk][109]
+ - [slideshare][110]
 
 ## Jobs
 
- - [neatstudio][107]
+ - [neatstudio][111]
 
 ## Blog
 
- - [liaoxuefeng][108]
- - [ruanyifeng][109]
- - [W A N I M A L][110]
+ - [liaoxuefeng][112]
+ - [ruanyifeng][113]
+ - [W A N I M A L][114]
 
 
   [1]: https://github.com/phpgao
@@ -247,48 +255,52 @@
   [63]: http://developer.baidu.com/wiki/index.php?title=docs/cplat/libs
   [64]: http://developer.baidu.com/wiki/index.php
   [65]: http://mc.baidu.com/
-  [66]: http://store.apple.com/us/browse/home/specialdeals/ipod
-  [67]: http://www.qiuyumi.org
-  [68]: http://cpubenchmark
-  [69]: http://www.mydrivers.com/zhuanti/index.shtml
-  [70]: http://www.customs.gov.cn/publish/portal0/tab399/info363071.htm
-  [71]: http://eshop.macsales.com/shop/SSD/OWC/Air-Retina/Apple-MacBook-Pro-Retina-2012-Drive-Internal-Flash
-  [72]: http://buyersguide.macrumors.com/
-  [73]: freedomain
-  [74]: http://www.startssl.com/
-  [75]: https://docs.python.org/2/index.html
-  [76]: https://wiki.python.org/moin/PythonWebKit
-  [77]: http://www.php.net/manual/zh/funcref.php
-  [78]: http://document.thinkphp.cn/manual_3_2.html
-  [79]: http://daringfireball.net/projects/markdown/
-  [80]: http://scrapy-chs.readthedocs.org/zh_CN/latest/intro/overview.html
-  [81]: http://www.jb51.net/tools/zhengze.html
-  [82]: http://www.crummy.com/software/BeautifulSoup/bs3/documentation.zh.html
-  [83]: https://read-the-docs.readthedocs.org/en/latest/
-  [84]: http://codeguide.bootcss.com/
-  [85]: http://www.bootcss.com/
-  [86]: http://www.cs.tut.fi/~jkorpela/http.html
-  [87]: http://my.oschina.net/idevpn/blog/323010
-  [88]: https://www.zybuluo.com/rulerstorm/note/29343#%E5%85%A5%E9%97%A8%E5%86%99%E4%B8%80%E7%82%B9%E7%99%BE%E5%BA%A6%E8%B5%B7%E6%9D%A5%E4%B8%8D%E6%98%AF%E5%BE%88%E8%BD%BB%E6%9D%BE%E7%9A%84%E4%BA%8B%E6%83%85
-  [89]: http://highscalability.com/blog/2014/8/11/the-easy-way-of-building-a-growing-startup-architecture-usin.html
-  [90]: http://www.thinkphp.cn/
-  [91]: http://www.speedphp.com/
-  [92]: http://www.crossphp.com/
-  [93]: http://www.yiiframework.com
-  [94]: http://www.codeigniter.com/
-  [95]: http://laravel.com/
-  [96]: http://symfony.com/
-  [97]: http://cakephp.org/
-  [98]: https://www.drupal.org/
-  [99]: http://medoo.in/
-  [100]: http://hexo.io/
-  [101]: https://github.com/hexojs/hexo/wiki/Themes
-  [102]: https://dev.twitter.com/rest/public
-  [103]: https://dribbble.com/
-  [104]: http://maolihui.com/
-  [105]: http://milnk.com/discover
-  [106]: http://www.slideshare.net/
-  [107]: http://static.neatstudio.com/jobs/
-  [108]: http://www.liaoxuefeng.com/
-  [109]: http://www.ruanyifeng.com/home.html
-  [110]: http://wanimal.lofter.com/
+  [66]: https://github.com/davidshimjs/qrcodejs
+  [67]: https://github.com/t0k4rt/phpqrcode
+  [68]: http://store.apple.com/us/browse/home/specialdeals/ipod
+  [69]: http://www.qiuyumi.org
+  [70]: http://cpubenchmark
+  [71]: http://www.mydrivers.com/zhuanti/index.shtml
+  [72]: http://www.customs.gov.cn/publish/portal0/tab399/info363071.htm
+  [73]: http://eshop.macsales.com/shop/SSD/OWC/Air-Retina/Apple-MacBook-Pro-Retina-2012-Drive-Internal-Flash
+  [74]: http://buyersguide.macrumors.com/
+  [75]: freedomain
+  [76]: http://www.startssl.com/
+  [77]: https://docs.python.org/2/index.html
+  [78]: https://wiki.python.org/moin/PythonWebKit
+  [79]: http://www.php.net/manual/zh/funcref.php
+  [80]: http://document.thinkphp.cn/manual_3_2.html
+  [81]: http://daringfireball.net/projects/markdown/
+  [82]: http://scrapy-chs.readthedocs.org/zh_CN/latest/intro/overview.html
+  [83]: http://www.jb51.net/tools/zhengze.html
+  [84]: http://www.crummy.com/software/BeautifulSoup/bs3/documentation.zh.html
+  [85]: https://read-the-docs.readthedocs.org/en/latest/
+  [86]: http://codeguide.bootcss.com/
+  [87]: http://www.bootcss.com/
+  [88]: http://www.cs.tut.fi/~jkorpela/http.html
+  [89]: http://my.oschina.net/idevpn/blog/323010
+  [90]: https://www.zybuluo.com/rulerstorm/note/29343#%E5%85%A5%E9%97%A8%E5%86%99%E4%B8%80%E7%82%B9%E7%99%BE%E5%BA%A6%E8%B5%B7%E6%9D%A5%E4%B8%8D%E6%98%AF%E5%BE%88%E8%BD%BB%E6%9D%BE%E7%9A%84%E4%BA%8B%E6%83%85
+  [91]: http://highscalability.com/blog/2014/8/11/the-easy-way-of-building-a-growing-startup-architecture-usin.html
+  [92]: http://www.thinkphp.cn/
+  [93]: http://www.speedphp.com/
+  [94]: http://www.crossphp.com/
+  [95]: http://www.yiiframework.com
+  [96]: http://www.codeigniter.com/
+  [97]: http://laravel.com/
+  [98]: http://symfony.com/
+  [99]: http://cakephp.org/
+  [100]: https://www.drupal.org/
+  [101]: http://medoo.in/
+  [102]: http://hexo.io/
+  [103]: https://github.com/hexojs/hexo/wiki/Themes
+  [104]: https://dev.twitter.com/rest/public
+  [105]: http://open.weibo.com/wiki/%E9%A6%96%E9%A1%B5
+  [106]: https://developer.github.com/v3/
+  [107]: https://dribbble.com/
+  [108]: http://maolihui.com/
+  [109]: http://milnk.com/discover
+  [110]: http://www.slideshare.net/
+  [111]: http://static.neatstudio.com/jobs/
+  [112]: http://www.liaoxuefeng.com/
+  [113]: http://www.ruanyifeng.com/home.html
+  [114]: http://wanimal.lofter.com/
