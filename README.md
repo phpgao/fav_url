@@ -195,56 +195,57 @@
  - [How to Handle 1 Billion Requests A Week][129]
  - [weixin.public][130]
  - [WebKit.Help][131]
+ - [android-training-course-in-chinese][132]
 
 ## Framework & CMS
 
 ### php
 
- - [THINKPHP][132]
- - [speedphp][133]
- - [crossphp][134]
- - [Yii][135]
- - [CI][136] 
- - [laravel][137]
- - [laravel-dojo][138]
- - [symfony][139]
- - [cakephp][140]
- - [drupal][141]
+ - [THINKPHP][133]
+ - [speedphp][134]
+ - [crossphp][135]
+ - [Yii][136]
+ - [CI][137] 
+ - [laravel][138]
+ - [laravel-dojo][139]
+ - [symfony][140]
+ - [cakephp][141]
+ - [drupal][142]
 
 ### mysql
 
- - [medoo][142]
+ - [medoo][143]
 
 ### Nodejs
 
- - [hexo.io][143]
- - [hexo.Themes][144]
+ - [hexo.io][144]
+ - [hexo.Themes][145]
 
 ## API
 
- - [twitter REST APIs][145]
- - [sina weibo api][146]
- - [github v3][147]
- - [thinkphp][148]
+ - [twitter REST APIs][146]
+ - [sina weibo api][147]
+ - [github v3][148]
+ - [thinkphp][149]
 
 ## Fun
 
- - [dribbble][149]
- - [maolihui][150]
- - [milnk][151]
- - [slideshare][152]
- - [ijustmadelove][153]
- - [此处输入链接的描述][154]
+ - [dribbble][150]
+ - [maolihui][151]
+ - [milnk][152]
+ - [slideshare][153]
+ - [ijustmadelove][154]
+ - [此处输入链接的描述][155]
 
 ## Jobs
 
- - [neatstudio][155]
+ - [neatstudio][156]
 
 ## Blog
 
- - [liaoxuefeng][156]
- - [ruanyifeng][157]
- - [W A N I M A L][158]
+ - [liaoxuefeng][157]
+ - [ruanyifeng][158]
+ - [W A N I M A L][159]
 
 
   [1]: https://github.com/phpgao
@@ -378,30 +379,31 @@
   [129]: http://highscalability.com/blog/2014/8/11/the-easy-way-of-building-a-growing-startup-architecture-usin.html
   [130]: http://mp.weixin.qq.com/wiki/home/index.html
   [131]: https://help.ubuntu.com/community/WebKit
-  [132]: http://www.thinkphp.cn/
-  [133]: http://www.speedphp.com/
-  [134]: http://www.crossphp.com/
-  [135]: http://www.yiiframework.com
-  [136]: http://www.codeigniter.com/
-  [137]: http://laravel.com/
-  [138]: http://www.laravel-dojo.com/
-  [139]: http://symfony.com/
-  [140]: http://cakephp.org/
-  [141]: https://www.drupal.org/
-  [142]: http://medoo.in/
-  [143]: http://hexo.io/
-  [144]: https://github.com/hexojs/hexo/wiki/Themes
-  [145]: https://dev.twitter.com/rest/public
-  [146]: http://open.weibo.com/wiki/%E9%A6%96%E9%A1%B5
-  [147]: https://developer.github.com/v3/
-  [148]: http://www.thinkphp.cn/api/index.html
-  [149]: https://dribbble.com/
-  [150]: http://maolihui.com/
-  [151]: http://milnk.com/discover
-  [152]: http://www.slideshare.net/
-  [153]: http://ijustmadelove.com/
-  [154]: https://www.kickstarter.com/
-  [155]: http://static.neatstudio.com/jobs/
-  [156]: http://www.liaoxuefeng.com/
-  [157]: http://www.ruanyifeng.com/home.html
-  [158]: http://wanimal.lofter.com/
+  [132]: http://hukai.me/android-training-course-in-chinese/
+  [133]: http://www.thinkphp.cn/
+  [134]: http://www.speedphp.com/
+  [135]: http://www.crossphp.com/
+  [136]: http://www.yiiframework.com
+  [137]: http://www.codeigniter.com/
+  [138]: http://laravel.com/
+  [139]: http://www.laravel-dojo.com/
+  [140]: http://symfony.com/
+  [141]: http://cakephp.org/
+  [142]: https://www.drupal.org/
+  [143]: http://medoo.in/
+  [144]: http://hexo.io/
+  [145]: https://github.com/hexojs/hexo/wiki/Themes
+  [146]: https://dev.twitter.com/rest/public
+  [147]: http://open.weibo.com/wiki/%E9%A6%96%E9%A1%B5
+  [148]: https://developer.github.com/v3/
+  [149]: http://www.thinkphp.cn/api/index.html
+  [150]: https://dribbble.com/
+  [151]: http://maolihui.com/
+  [152]: http://milnk.com/discover
+  [153]: http://www.slideshare.net/
+  [154]: http://ijustmadelove.com/
+  [155]: https://www.kickstarter.com/
+  [156]: http://static.neatstudio.com/jobs/
+  [157]: http://www.liaoxuefeng.com/
+  [158]: http://www.ruanyifeng.com/home.html
+  [159]: http://wanimal.lofter.com/
