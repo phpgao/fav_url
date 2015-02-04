@@ -260,7 +260,7 @@
   [10]: http://www.google.com/transparencyreport/?hl=zh-CN
   [11]: http://developer.android.com/about/dashboards/index.html
   [12]: http://download.cyanogenmod.org/?type=nightly&device=hammerhead
-  [13]: https://developers.google.com/android/
+  [13]: https://developers.google.com/android/nexus/images
   [14]: http://download.mokeedev.com/?device=hammerhead
   [15]: http://dl.omnirom.org/hammerhead/
   [16]: http://apps.evozi.com/apk-downloader/
